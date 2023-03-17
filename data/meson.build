@@ -14,13 +14,13 @@ install_data(
 )
 
 install_data(
-    'org.vanillaos.Installer.policy',
+    'org.yoyoos.Installer.policy',
     install_dir: join_paths(get_option('datadir'), 'polkit-1', 'actions')
 )
 
 desktop_file = i18n.merge_file(
-  input: 'org.vanillaos.Installer.desktop.in',
-  output: 'org.vanillaos.Installer.desktop',
+  input: 'org.yoyoos.Installer.desktop.in',
+  output: 'org.yoyoos.Installer.desktop',
   type: 'desktop',
   po_dir: '../po',
   install: true,
@@ -35,8 +35,8 @@ if desktop_utils.found()
 endif
 
 appstream_file = i18n.merge_file(
-  input: 'org.vanillaos.Installer.appdata.xml.in',
-  output: 'org.vanillaos.Installer.appdata.xml',
+  input: 'org.yoyoos.Installer.appdata.xml.in',
+  output: 'org.yoyoos.Installer.appdata.xml',
   po_dir: '../po',
   install: true,
   install_dir: join_paths(get_option('datadir'), 'appdata')
@@ -49,7 +49,7 @@ if appstream_util.found()
   )
 endif
 
-install_data('org.vanillaos.Installer.gschema.xml',
+install_data('org.yoyoos.Installer.gschema.xml',
   install_dir: join_paths(get_option('datadir'), 'glib-2.0/schemas')
 )
 

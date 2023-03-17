@@ -1,15 +1,15 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the vanilla-installer package.
+# This file is distributed under the same license as the yoyo-installer package.
 # Philip Goto <philip.goto@gmail.com>, 2023.
 msgid ""
 msgstr ""
-"Project-Id-Version: vanilla-installer\n"
+"Project-Id-Version: yoyo-installer\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-17 21:41+0530\n"
 "PO-Revision-Date: 2023-02-23 00:29+0000\n"
 "Last-Translator: Philip Goto <philip.goto@gmail.com>\n"
-"Language-Team: Dutch <https://hosted.weblate.org/projects/vanilla-os/"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/yoyo-os/"
 "installer/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -19,12 +19,12 @@ msgstr ""
 "X-Generator: Weblate 4.16-dev\n"
 
 #: data/org.vanillaos.Installer.desktop.in:3 vanilla_installer/gtk/window.ui:8
-msgid "Vanilla OS Installer"
-msgstr "Installer van Vanilla OS"
+msgid "Yoyo OS Installer"
+msgstr "Installer van Yoyo OS"
 
 #: data/org.vanillaos.Installer.appdata.xml.in:7
-msgid "Tweak your Vanilla OS installation."
-msgstr "Pas uw installatie van Vanilla OS aan."
+msgid "Tweak your Yoyo OS installation."
+msgstr "Pas uw installatie van Yoyo OS aan."
 
 #: data/org.vanillaos.Installer.appdata.xml.in:10
 msgid "No description"
@@ -44,8 +44,8 @@ msgstr "De volgende wijzigingen zullen worden aangebracht op uw systeem:"
 
 #: vanilla_installer/gtk/confirm.ui:28
 #: vanilla_installer/gtk/default-welcome.ui:86
-msgid "Install Vanilla OS"
-msgstr "Vanilla OS installeren"
+msgid "Install Yoyo OS"
+msgstr "Yoyo OS installeren"
 
 #: vanilla_installer/gtk/default-disk.ui:20
 #: vanilla_installer/gtk/default-keyboard.ui:23
@@ -62,8 +62,8 @@ msgid "Select a Disk"
 msgstr "Selecteer een schijf"
 
 #: vanilla_installer/gtk/default-disk.ui:31
-msgid "Select the disk where you want to install Vanilla OS"
-msgstr "Selecteer de schijf waarop u Vanilla OS wilt installeren"
+msgid "Select the disk where you want to install Yoyo OS"
+msgstr "Selecteer de schijf waarop u Yoyo OS wilt installeren"
 
 #: vanilla_installer/gtk/default-disk.ui:41
 msgid "Configure"
@@ -156,8 +156,8 @@ msgid "Confirm Password"
 msgstr "Bevestig wachtwoord"
 
 #: vanilla_installer/gtk/default-welcome.ui:51
-msgid "Try Vanilla OS"
-msgstr "Vanilla OS uitproberen"
+msgid "Try Yoyo OS"
+msgstr "Yoyo OS uitproberen"
 
 #: vanilla_installer/gtk/dialog-disk-confirm.ui:6
 #: vanilla_installer/gtk/dialog-disk-confirm.ui:25
@@ -199,9 +199,9 @@ msgid "All done!"
 msgstr "Helemaal klaar!"
 
 #: vanilla_installer/gtk/done.ui:13
-msgid "Restart your device to enjoy your Vanilla OS experience"
+msgid "Restart your device to enjoy your Yoyo OS experience"
 msgstr ""
-"Start uw apparaat opnieuw op om te genieten van uw ervaring met Vanilla OS"
+"Start uw apparaat opnieuw op om te genieten van uw ervaring met Yoyo OS"
 
 #: vanilla_installer/gtk/done.ui:23
 msgid "Show Log"
@@ -236,8 +236,8 @@ msgid "Disk Allocation"
 msgstr "Schijfallocatie"
 
 #: vanilla_installer/gtk/widget-partition.ui:8
-msgid "Choose how to install Vanilla OS on your drive."
-msgstr "Kies hoe Vanilla OS op uw schijf geïnstalleerd moet worden."
+msgid "Choose how to install Yoyo OS on your drive."
+msgstr "Kies hoe Yoyo OS op uw schijf geïnstalleerd moet worden."
 
 #: vanilla_installer/gtk/widget-partition.ui:11
 msgid "Entire Disk"
@@ -275,10 +275,10 @@ msgstr "Opstartpartitie"
 #: vanilla_installer/gtk/widget-partition.ui:58
 msgid ""
 "The partition to mount under “/boot”. This directory stores files for "
-"booting in Vanilla OS."
+"booting in Yoyo OS."
 msgstr ""
 "De partitie welke aan ‘/boot’ dient te worden gekoppeld. Deze bevat "
-"bestanden voor het opstarten van Vanilla OS."
+"bestanden voor het opstarten van Yoyo OS."
 
 #: vanilla_installer/gtk/widget-partition.ui:61
 #: vanilla_installer/gtk/widget-partition.ui:82
@@ -353,10 +353,10 @@ msgstr ""
 
 #: vanilla_installer/gtk/widget-partition.ui:134
 msgid ""
-"Vanilla OS uses an A/B partition system managed by ABRoot,\n"
+"Yoyo OS uses an A/B partition system managed by ABRoot,\n"
 "which switches between two root partitions between updates."
 msgstr ""
-"Vanilla OS maakt gebruik van een A/B-partitiesysteem beheerd door ABRoot, "
+"Yoyo OS maakt gebruik van een A/B-partitiesysteem beheerd door ABRoot, "
 "welke bij updates tussen de twee partities wisselt."
 
 #: vanilla_installer/gtk/widget-partition.ui:178
@@ -394,10 +394,10 @@ msgstr "Wisselgeheugenpartitie"
 #: vanilla_installer/gtk/widget-partition.ui:215
 msgid ""
 "Swap acts as a virtual extension of your RAM and enables hibernation. "
-"Vanilla OS already uses zram to provide swapping at no storage cost."
+"Yoyo OS already uses zram to provide swapping at no storage cost."
 msgstr ""
 "Wisselgeheugen (swap) fungeert als een virtuele uitbreiding van uw "
-"werkgeheugen en maakt sluimerstand mogelijk. Vanilla OS maakt al gebruik van "
+"werkgeheugen en maakt sluimerstand mogelijk. Yoyo OS maakt al gebruik van "
 "‘zram’ om het werkgeheugen uit te breiden zonder gebruik te maken van extra "
 "opslagruimte."
 

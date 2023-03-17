@@ -1,15 +1,15 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the vanilla-installer package.
+# This file is distributed under the same license as the yoyo-installer package.
 # Serhii Chebanenko <4e6anenk0@gmail.com>, 2023.
 msgid ""
 msgstr ""
-"Project-Id-Version: vanilla-installer\n"
+"Project-Id-Version: yoyo-installer\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-17 21:41+0530\n"
 "PO-Revision-Date: 2023-02-20 18:21+0000\n"
 "Last-Translator: Serhii Chebanenko <4e6anenk0@gmail.com>\n"
-"Language-Team: Ukrainian <https://hosted.weblate.org/projects/vanilla-os/"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/yoyo-os/"
 "installer/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -19,159 +19,159 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.16-dev\n"
 
-#: data/org.vanillaos.Installer.desktop.in:3 vanilla_installer/gtk/window.ui:8
-msgid "Vanilla OS Installer"
-msgstr "Встановлювач Vanilla OS"
+#: data/org.yoyoos.Installer.desktop.in:3 yoyo_installer/gtk/window.ui:8
+msgid "Yoyo OS Installer"
+msgstr "Встановлювач Yoyo OS"
 
-#: data/org.vanillaos.Installer.appdata.xml.in:7
-msgid "Tweak your Vanilla OS installation."
-msgstr "Налаштуйте встановлення Vanilla OS."
+#: data/org.yoyoos.Installer.appdata.xml.in:7
+msgid "Tweak your Yoyo OS installation."
+msgstr "Налаштуйте встановлення Yoyo OS."
 
-#: data/org.vanillaos.Installer.appdata.xml.in:10
+#: data/org.yoyoos.Installer.appdata.xml.in:10
 msgid "No description"
 msgstr "Без опису"
 
-#: data/org.vanillaos.Installer.appdata.xml.in:26
+#: data/org.yoyoos.Installer.appdata.xml.in:26
 msgid "First release"
 msgstr "Перший реліз"
 
-#: vanilla_installer/gtk/confirm.ui:10
+#: yoyo_installer/gtk/confirm.ui:10
 msgid "Confirm Installation"
 msgstr "Підтвердження встановлення"
 
-#: vanilla_installer/gtk/confirm.ui:11
+#: yoyo_installer/gtk/confirm.ui:11
 msgid "The following changes will be made to your system:"
 msgstr "У вашу систему будуть внесені наступні зміни:"
 
-#: vanilla_installer/gtk/confirm.ui:28
-#: vanilla_installer/gtk/default-welcome.ui:86
-msgid "Install Vanilla OS"
-msgstr "Встановити Vanilla OS"
+#: yoyo_installer/gtk/confirm.ui:28
+#: yoyo_installer/gtk/default-welcome.ui:86
+msgid "Install Yoyo OS"
+msgstr "Встановити Yoyo OS"
 
-#: vanilla_installer/gtk/default-disk.ui:20
-#: vanilla_installer/gtk/default-keyboard.ui:23
-#: vanilla_installer/gtk/default-language.ui:23
-#: vanilla_installer/gtk/default-theme.ui:49
-#: vanilla_installer/gtk/default-timezone.ui:23
-#: vanilla_installer/gtk/default-users.ui:19
-#: vanilla_installer/gtk/layout-preferences.ui:29
+#: yoyo_installer/gtk/default-disk.ui:20
+#: yoyo_installer/gtk/default-keyboard.ui:23
+#: yoyo_installer/gtk/default-language.ui:23
+#: yoyo_installer/gtk/default-theme.ui:49
+#: yoyo_installer/gtk/default-timezone.ui:23
+#: yoyo_installer/gtk/default-users.ui:19
+#: yoyo_installer/gtk/layout-preferences.ui:29
 msgid "Next"
 msgstr "Далі"
 
-#: vanilla_installer/gtk/default-disk.ui:30
+#: yoyo_installer/gtk/default-disk.ui:30
 msgid "Select a Disk"
 msgstr "Виберіть диск"
 
-#: vanilla_installer/gtk/default-disk.ui:31
-msgid "Select the disk where you want to install Vanilla OS"
-msgstr "Виберіть диск, на який ви хочете встановити Vanilla OS"
+#: yoyo_installer/gtk/default-disk.ui:31
+msgid "Select the disk where you want to install Yoyo OS"
+msgstr "Виберіть диск, на який ви хочете встановити Yoyo OS"
 
-#: vanilla_installer/gtk/default-disk.ui:41
+#: yoyo_installer/gtk/default-disk.ui:41
 msgid "Configure"
 msgstr "Налаштувати"
 
-#: vanilla_installer/gtk/default-keyboard.ui:33
+#: yoyo_installer/gtk/default-keyboard.ui:33
 msgid "Keyboard Layout"
 msgstr "Розкладка клавіатури"
 
-#: vanilla_installer/gtk/default-keyboard.ui:34
+#: yoyo_installer/gtk/default-keyboard.ui:34
 msgid "Select your preferred keyboard layout"
 msgstr "Виберіть бажану розкладку клавіатури"
 
-#: vanilla_installer/gtk/default-keyboard.ui:44
+#: yoyo_installer/gtk/default-keyboard.ui:44
 msgid "Search for a Keyboard Layout"
 msgstr "Пошук за розкладкою клавіатури"
 
-#: vanilla_installer/gtk/default-language.ui:33
-#: vanilla_installer/gtk/default-language.ui:51
-#: vanilla_installer/views/confirm.py:72
+#: yoyo_installer/gtk/default-language.ui:33
+#: yoyo_installer/gtk/default-language.ui:51
+#: yoyo_installer/views/confirm.py:72
 msgid "Language"
 msgstr "Мова"
 
-#: vanilla_installer/gtk/default-language.ui:34
+#: yoyo_installer/gtk/default-language.ui:34
 msgid "Select your language"
 msgstr "Виберіть свою мову"
 
-#: vanilla_installer/gtk/default-language.ui:44
+#: yoyo_installer/gtk/default-language.ui:44
 msgid "Search for a language"
 msgstr "Пошук за мовою"
 
-#: vanilla_installer/gtk/default-theme.ui:17
+#: yoyo_installer/gtk/default-theme.ui:17
 msgid "Default"
 msgstr "Стандартна"
 
-#: vanilla_installer/gtk/default-theme.ui:29
+#: yoyo_installer/gtk/default-theme.ui:29
 msgid "Dark"
 msgstr "Темна"
 
-#: vanilla_installer/gtk/default-theme.ui:42
+#: yoyo_installer/gtk/default-theme.ui:42
 msgid "Color Scheme"
 msgstr "Колірна схема"
 
-#: vanilla_installer/gtk/default-theme.ui:43
+#: yoyo_installer/gtk/default-theme.ui:43
 msgid "Choose a color scheme for your system"
 msgstr "Виберіть колірну схему для вашої системи"
 
-#: vanilla_installer/gtk/default-timezone.ui:33
+#: yoyo_installer/gtk/default-timezone.ui:33
 msgid "Date & Time"
 msgstr "Дата і час"
 
-#: vanilla_installer/gtk/default-timezone.ui:34
+#: yoyo_installer/gtk/default-timezone.ui:34
 msgid "Select your preferred timezone"
 msgstr "Виберіть потрібний часовий пояс"
 
-#: vanilla_installer/gtk/default-timezone.ui:44
+#: yoyo_installer/gtk/default-timezone.ui:44
 msgid "Search for a Timezone"
 msgstr "Пошук за часовим поясом"
 
-#: vanilla_installer/gtk/default-timezone.ui:51
+#: yoyo_installer/gtk/default-timezone.ui:51
 msgid "Region"
 msgstr "Регіон"
 
-#: vanilla_installer/gtk/default-timezone.ui:59
+#: yoyo_installer/gtk/default-timezone.ui:59
 msgid "Zone"
 msgstr "Зона"
 
-#: vanilla_installer/gtk/default-users.ui:40
+#: yoyo_installer/gtk/default-users.ui:40
 msgid "Create User"
 msgstr "Створити користувача"
 
-#: vanilla_installer/gtk/default-users.ui:41
+#: yoyo_installer/gtk/default-users.ui:41
 msgid "Provide details for your user account"
 msgstr "Надайте інформацію для вашого облікового запису"
 
-#: vanilla_installer/gtk/default-users.ui:48
+#: yoyo_installer/gtk/default-users.ui:48
 msgid "Name"
 msgstr "Ім'я"
 
-#: vanilla_installer/gtk/default-users.ui:54
+#: yoyo_installer/gtk/default-users.ui:54
 msgid "Username"
 msgstr "Логін"
 
-#: vanilla_installer/gtk/default-users.ui:60
+#: yoyo_installer/gtk/default-users.ui:60
 msgid "Password"
 msgstr "Пароль"
 
-#: vanilla_installer/gtk/default-users.ui:66
+#: yoyo_installer/gtk/default-users.ui:66
 msgid "Confirm Password"
 msgstr "Підтвердьте пароль"
 
-#: vanilla_installer/gtk/default-welcome.ui:51
-msgid "Try Vanilla OS"
-msgstr "Спробувати Vanilla OS"
+#: yoyo_installer/gtk/default-welcome.ui:51
+msgid "Try Yoyo OS"
+msgstr "Спробувати Yoyo OS"
 
-#: vanilla_installer/gtk/dialog-disk-confirm.ui:6
-#: vanilla_installer/gtk/dialog-disk-confirm.ui:25
-#: vanilla_installer/gtk/dialog-disk-confirm.ui:36
+#: yoyo_installer/gtk/dialog-disk-confirm.ui:6
+#: yoyo_installer/gtk/dialog-disk-confirm.ui:25
+#: yoyo_installer/gtk/dialog-disk-confirm.ui:36
 msgid "Confirm Changes"
 msgstr "Підтвердити зміни"
 
-#: vanilla_installer/gtk/dialog-disk-confirm.ui:18
-#: vanilla_installer/gtk/dialog-disk.ui:17
+#: yoyo_installer/gtk/dialog-disk-confirm.ui:18
+#: yoyo_installer/gtk/dialog-disk.ui:17
 msgid "Cancel"
 msgstr "Скасувати"
 
-#: vanilla_installer/gtk/dialog-disk-confirm.ui:26
+#: yoyo_installer/gtk/dialog-disk-confirm.ui:26
 msgid ""
 "The following changes will be made to your disk. Please review them "
 "carefully."
@@ -179,79 +179,79 @@ msgstr ""
 "На ваш диск будуть внесені наступні зміни. Будь ласка, перегляньте їх "
 "ретельно."
 
-#: vanilla_installer/gtk/dialog-disk.ui:5
+#: yoyo_installer/gtk/dialog-disk.ui:5
 msgid "Configure Disk"
 msgstr "Налаштування диску"
 
-#: vanilla_installer/gtk/dialog-disk.ui:22
+#: yoyo_installer/gtk/dialog-disk.ui:22
 msgid "Apply"
 msgstr "Застосувати"
 
-#: vanilla_installer/gtk/dialog.ui:6
+#: yoyo_installer/gtk/dialog.ui:6
 msgid "Showing Information"
 msgstr "Відображення інформації"
 
-#: vanilla_installer/gtk/dialog-output.ui:6
+#: yoyo_installer/gtk/dialog-output.ui:6
 msgid "Log"
 msgstr "Журнал"
 
-#: vanilla_installer/gtk/done.ui:12
+#: yoyo_installer/gtk/done.ui:12
 msgid "All done!"
 msgstr "Готово!"
 
-#: vanilla_installer/gtk/done.ui:13
-msgid "Restart your device to enjoy your Vanilla OS experience"
-msgstr "Перезавантажте свій пристрій, щоб насолодитися роботою Vanilla OS"
+#: yoyo_installer/gtk/done.ui:13
+msgid "Restart your device to enjoy your Yoyo OS experience"
+msgstr "Перезавантажте свій пристрій, щоб насолодитися роботою Yoyo OS"
 
-#: vanilla_installer/gtk/done.ui:23
+#: yoyo_installer/gtk/done.ui:23
 msgid "Show Log"
 msgstr "Показати журнал"
 
-#: vanilla_installer/gtk/done.ui:32
+#: yoyo_installer/gtk/done.ui:32
 msgid "Reboot Now"
 msgstr "Перезавантажити зараз"
 
-#: vanilla_installer/gtk/done.ui:42
+#: yoyo_installer/gtk/done.ui:42
 msgid "Close"
 msgstr "Закрити"
 
-#: vanilla_installer/gtk/layout-yes-no.ui:36
+#: yoyo_installer/gtk/layout-yes-no.ui:36
 msgid "Yes, enable it"
 msgstr "Так, увімкнути"
 
-#: vanilla_installer/gtk/progress.ui:70
+#: yoyo_installer/gtk/progress.ui:70
 msgid "Installing..."
 msgstr "Встановлення..."
 
-#: vanilla_installer/gtk/progress.ui:91
+#: yoyo_installer/gtk/progress.ui:91
 msgid "Show Console output"
 msgstr "Показати вихід консолі"
 
-#: vanilla_installer/gtk/progress.ui:106
+#: yoyo_installer/gtk/progress.ui:106
 msgid "Show Slideshow"
 msgstr "Показ слайдів"
 
-#: vanilla_installer/gtk/widget-partition.ui:7
+#: yoyo_installer/gtk/widget-partition.ui:7
 msgid "Disk Allocation"
 msgstr "Розподіл дискового простору"
 
-#: vanilla_installer/gtk/widget-partition.ui:8
-msgid "Choose how to install Vanilla OS on your drive."
-msgstr "Виберіть, як встановити Vanilla OS на ваш диск."
+#: yoyo_installer/gtk/widget-partition.ui:8
+msgid "Choose how to install Yoyo OS on your drive."
+msgstr "Виберіть, як встановити Yoyo OS на ваш диск."
 
-#: vanilla_installer/gtk/widget-partition.ui:11
+#: yoyo_installer/gtk/widget-partition.ui:11
 msgid "Entire Disk"
 msgstr "Використати весь диск"
 
-#: vanilla_installer/gtk/widget-partition.ui:12
+#: yoyo_installer/gtk/widget-partition.ui:12
 msgid "This will erase all data on the disk."
 msgstr "Це призведе до видалення всіх даних на диску."
 
-#: vanilla_installer/gtk/widget-partition.ui:23
+#: yoyo_installer/gtk/widget-partition.ui:23
 msgid "Manual Partitioning"
 msgstr "Ручне створення розділів"
 
-#: vanilla_installer/gtk/widget-partition.ui:24
+#: yoyo_installer/gtk/widget-partition.ui:24
 msgid ""
 "Select which partitions to use for installation. Incorrect configuration can "
 "lead to data loss, corruption, and/or an unbootable system."
@@ -260,57 +260,57 @@ msgstr ""
 "конфігурація може призвести до втрати даних, пошкодження та/або неможливості "
 "завантаження системи."
 
-#: vanilla_installer/gtk/widget-partition.ui:39
+#: yoyo_installer/gtk/widget-partition.ui:39
 msgid "Open GParted"
 msgstr "Відкрити GParted"
 
-#: vanilla_installer/gtk/widget-partition.ui:40
+#: yoyo_installer/gtk/widget-partition.ui:40
 msgid "Open GParted to manually partition the disk"
 msgstr "Відкрити GParted, щоб вручну розділити диск"
 
-#: vanilla_installer/gtk/widget-partition.ui:57
+#: yoyo_installer/gtk/widget-partition.ui:57
 msgid "Boot Partition"
 msgstr "Завантажувальний розділ"
 
-#: vanilla_installer/gtk/widget-partition.ui:58
+#: yoyo_installer/gtk/widget-partition.ui:58
 msgid ""
 "The partition to mount under “/boot”. This directory stores files for "
-"booting in Vanilla OS."
+"booting in Yoyo OS."
 msgstr ""
 "Розділ для монтування під \"/boot\". У цьому каталозі зберігаються файли для "
-"завантаження в Vanilla OS."
+"завантаження в Yoyo OS."
 
-#: vanilla_installer/gtk/widget-partition.ui:61
-#: vanilla_installer/gtk/widget-partition.ui:82
-#: vanilla_installer/gtk/widget-partition.ui:103
-#: vanilla_installer/gtk/widget-partition.ui:152
-#: vanilla_installer/gtk/widget-partition.ui:166
-#: vanilla_installer/gtk/widget-partition.ui:197
-#: vanilla_installer/gtk/widget-partition.ui:230
-#: vanilla_installer/defaults/disk.py:467
+#: yoyo_installer/gtk/widget-partition.ui:61
+#: yoyo_installer/gtk/widget-partition.ui:82
+#: yoyo_installer/gtk/widget-partition.ui:103
+#: yoyo_installer/gtk/widget-partition.ui:152
+#: yoyo_installer/gtk/widget-partition.ui:166
+#: yoyo_installer/gtk/widget-partition.ui:197
+#: yoyo_installer/gtk/widget-partition.ui:230
+#: yoyo_installer/defaults/disk.py:467
 msgid "No partition selected"
 msgstr "Розділ не вибрано"
 
-#: vanilla_installer/gtk/widget-partition.ui:62
-#: vanilla_installer/gtk/widget-partition.ui:83
-#: vanilla_installer/gtk/widget-partition.ui:104
-#: vanilla_installer/gtk/widget-partition.ui:153
-#: vanilla_installer/gtk/widget-partition.ui:167
-#: vanilla_installer/gtk/widget-partition.ui:198
-#: vanilla_installer/gtk/widget-partition.ui:231
-#: vanilla_installer/defaults/disk.py:469
+#: yoyo_installer/gtk/widget-partition.ui:62
+#: yoyo_installer/gtk/widget-partition.ui:83
+#: yoyo_installer/gtk/widget-partition.ui:104
+#: yoyo_installer/gtk/widget-partition.ui:153
+#: yoyo_installer/gtk/widget-partition.ui:167
+#: yoyo_installer/gtk/widget-partition.ui:198
+#: yoyo_installer/gtk/widget-partition.ui:231
+#: yoyo_installer/defaults/disk.py:469
 msgid "Please select a partition from the options below"
 msgstr "Будь ласка, виберіть розділ із наведених нижче варіантів"
 
-#: vanilla_installer/gtk/widget-partition.ui:73
+#: yoyo_installer/gtk/widget-partition.ui:73
 msgid "Boot partition is too small."
 msgstr "Завантажувальний розділ занадто малий."
 
-#: vanilla_installer/gtk/widget-partition.ui:78
+#: yoyo_installer/gtk/widget-partition.ui:78
 msgid "EFI Partition"
 msgstr "Розділ EFI"
 
-#: vanilla_installer/gtk/widget-partition.ui:79
+#: yoyo_installer/gtk/widget-partition.ui:79
 msgid ""
 "The partition to mount under “/boot/efi”. This directory stores files for "
 "booting in the bootloader."
@@ -318,15 +318,15 @@ msgstr ""
 "Розділ для монтування під \"/boot/efi\". У цьому каталозі зберігаються файли "
 "для завантаження у завантажувач."
 
-#: vanilla_installer/gtk/widget-partition.ui:94
+#: yoyo_installer/gtk/widget-partition.ui:94
 msgid "EFI partition is too small."
 msgstr "Розділ EFI занадто малий."
 
-#: vanilla_installer/gtk/widget-partition.ui:99
+#: yoyo_installer/gtk/widget-partition.ui:99
 msgid "BIOS Boot Partition"
 msgstr "Завантажувальний розділ BIOS"
 
-#: vanilla_installer/gtk/widget-partition.ui:100
+#: yoyo_installer/gtk/widget-partition.ui:100
 msgid ""
 "The partition required by GPT-formatted disks to support booting from BIOS "
 "systems. It must be located in the first 2 TB of the disk and must be "
@@ -336,72 +336,72 @@ msgstr ""
 "BIOS. Він повинен розташовуватися в перших 2 Тб диска і повинен бути рівно 1 "
 "Мебібайт (1 MiB)."
 
-#: vanilla_installer/gtk/widget-partition.ui:115
+#: yoyo_installer/gtk/widget-partition.ui:115
 msgid "BIOS partition must be exactly 1 MiB."
 msgstr "Розділ BIOS повинен мати розмір рівно 1 MiB."
 
-#: vanilla_installer/gtk/widget-partition.ui:120
+#: yoyo_installer/gtk/widget-partition.ui:120
 msgid "Root Partitions"
 msgstr "Кореневі розділи"
 
-#: vanilla_installer/gtk/widget-partition.ui:121
+#: yoyo_installer/gtk/widget-partition.ui:121
 msgid ""
 "The partitions to mount under “/”. Both partitions must be the same size."
 msgstr ""
 "Розділи для монтування під “/”. Обидва розділи повинні мати однаковий розмір."
 
-#: vanilla_installer/gtk/widget-partition.ui:134
+#: yoyo_installer/gtk/widget-partition.ui:134
 msgid ""
-"Vanilla OS uses an A/B partition system managed by ABRoot,\n"
+"Yoyo OS uses an A/B partition system managed by ABRoot,\n"
 "which switches between two root partitions between updates."
 msgstr ""
-"Vanilla OS використовує систему розділів A/B, керовану ABRoot,\n"
+"Yoyo OS використовує систему розділів A/B, керовану ABRoot,\n"
 "завдяки якій перемикається між двома кореневими розділами між оновленнями."
 
-#: vanilla_installer/gtk/widget-partition.ui:178
+#: yoyo_installer/gtk/widget-partition.ui:178
 msgid "Root partitions are not the same size."
 msgstr "Кореневі розділи не однакового розміру."
 
-#: vanilla_installer/gtk/widget-partition.ui:179
+#: yoyo_installer/gtk/widget-partition.ui:179
 msgid "Please make sure your A and B partitions have the same disk space."
 msgstr ""
 "Будь ласка, переконайтеся, що ваші розділи A і B займають однаковий дисковий "
 "простір."
 
-#: vanilla_installer/gtk/widget-partition.ui:188
+#: yoyo_installer/gtk/widget-partition.ui:188
 msgid "Root partitions are too small."
 msgstr "Кореневі розділи занадто малі."
 
-#: vanilla_installer/gtk/widget-partition.ui:193
+#: yoyo_installer/gtk/widget-partition.ui:193
 msgid "Home Partition"
 msgstr "Домашній розділ"
 
-#: vanilla_installer/gtk/widget-partition.ui:194
+#: yoyo_installer/gtk/widget-partition.ui:194
 msgid ""
 "The partition to mount under “/home”. This directory stores all user data."
 msgstr ""
 "Розділ для монтування під \"/home\". У цьому каталозі зберігаються всі дані "
 "користувача."
 
-#: vanilla_installer/gtk/widget-partition.ui:209
+#: yoyo_installer/gtk/widget-partition.ui:209
 msgid "Home partition is too small."
 msgstr "Домашній розділ занадто малий."
 
-#: vanilla_installer/gtk/widget-partition.ui:214
-#: vanilla_installer/gtk/widget-partition.ui:218
+#: yoyo_installer/gtk/widget-partition.ui:214
+#: yoyo_installer/gtk/widget-partition.ui:218
 msgid "Swap partition"
 msgstr "Розділ підкачки (Swap)"
 
-#: vanilla_installer/gtk/widget-partition.ui:215
+#: yoyo_installer/gtk/widget-partition.ui:215
 msgid ""
 "Swap acts as a virtual extension of your RAM and enables hibernation. "
-"Vanilla OS already uses zram to provide swapping at no storage cost."
+"Yoyo OS already uses zram to provide swapping at no storage cost."
 msgstr ""
 "Swap діє як віртуальне розширення вашої оперативної пам'яті і дозволяє "
-"переходити у сплячий режим. Vanilla OS вже використовує zram для "
+"переходити у сплячий режим. Yoyo OS вже використовує zram для "
 "забезпечення свопінгу без витрат на зберігання."
 
-#: vanilla_installer/gtk/widget-partition.ui:219
+#: yoyo_installer/gtk/widget-partition.ui:219
 msgid ""
 "Choose a partition to use for swap alongside zram. This is not required for "
 "hibernation."
@@ -409,136 +409,136 @@ msgstr ""
 "Виберіть розділ, який буде використано для підкачки поряд із zram. Це не "
 "потрібно для переходу у сплячий режим."
 
-#: vanilla_installer/gtk/window.ui:39
+#: yoyo_installer/gtk/window.ui:39
 msgid "Back"
 msgstr "Назад"
 
-#: vanilla_installer/defaults/disk.py:42
+#: yoyo_installer/defaults/disk.py:42
 #, python-brace-format
 msgid "Not enough space: {0}/{1}"
 msgstr "Недостатньо місця: {0}/{1}"
 
-#: vanilla_installer/defaults/disk.py:57
+#: yoyo_installer/defaults/disk.py:57
 msgid "This is the only disk available and cannot be deselected!"
 msgstr "Це єдиний доступний диск, вибір якого неможливо скасувати!"
 
-#: vanilla_installer/defaults/disk.py:332
+#: yoyo_installer/defaults/disk.py:332
 msgid "GParted is already running. Only one instance of GParted is permitted."
 msgstr ""
 "GParted вже запущено. Дозволено використовувати лише один екземпляр GParted."
 
-#: vanilla_installer/defaults/disk.py:431
+#: yoyo_installer/defaults/disk.py:431
 msgid "Partition must be at least {}"
 msgstr "Розділ повинен бути не менше ніж {}"
 
-#: vanilla_installer/defaults/disk.py:454
+#: yoyo_installer/defaults/disk.py:454
 msgid "Partition must EXACTLY {}"
 msgstr "Розділ повинен бути РІВНО {}"
 
-#: vanilla_installer/defaults/disk.py:556
+#: yoyo_installer/defaults/disk.py:556
 msgid "Partitions have changed. Current selections have been cleared."
 msgstr "Змінені розділи. Поточні виділення були очищені."
 
-#: vanilla_installer/defaults/disk.py:621
+#: yoyo_installer/defaults/disk.py:621
 msgid "Entire disk will be used."
 msgstr "Буде використано усе місце на диску."
 
-#: vanilla_installer/defaults/disk.py:628
+#: yoyo_installer/defaults/disk.py:628
 msgid "Will be formatted in {} and mounted in {}"
 msgstr "Буде відформатовано в {} і змонтовано у {}"
 
 #. signals
-#: vanilla_installer/layouts/preferences.py:42
-#: vanilla_installer/views/confirm.py:122
-#: vanilla_installer/views/progress.py:51
-#: vanilla_installer/views/progress.py:52
-#: vanilla_installer/windows/main_window.py:61
+#: yoyo_installer/layouts/preferences.py:42
+#: yoyo_installer/views/confirm.py:122
+#: yoyo_installer/views/progress.py:51
+#: yoyo_installer/views/progress.py:52
+#: yoyo_installer/windows/main_window.py:61
 msgid "clicked"
 msgstr "натиснуто"
 
-#: vanilla_installer/layouts/preferences.py:68
+#: yoyo_installer/layouts/preferences.py:68
 msgid "Please select at least one option."
 msgstr "Виберіть принаймні один варіант."
 
-#: vanilla_installer/utils/builder.py:67
+#: yoyo_installer/utils/builder.py:67
 msgid "Missing 'log_file' in the recipe."
 msgstr "У рецепті не вистачає 'log_file'."
 
-#: vanilla_installer/utils/builder.py:76
+#: yoyo_installer/utils/builder.py:76
 #, python-format
 msgid "failed to create log file: %s"
 msgstr "не вдалося створити файл журналу: %s"
 
-#: vanilla_installer/utils/builder.py:77
+#: yoyo_installer/utils/builder.py:77
 msgid "No log will be stored."
 msgstr "Журнал не буде збережено."
 
-#: vanilla_installer/utils/builder.py:84
+#: yoyo_installer/utils/builder.py:84
 #, python-format
 msgid "Performing display-condition: %s"
 msgstr "Виконання умов відображення: %s"
 
-#: vanilla_installer/utils/builder.py:87 vanilla_installer/utils/builder.py:90
+#: yoyo_installer/utils/builder.py:87 yoyo_installer/utils/builder.py:90
 #, python-format
 msgid "Step %s skipped due to display-conditions"
 msgstr "Крок %s пропущено через умови відображення"
 
-#: vanilla_installer/utils/recipe.py:46
+#: yoyo_installer/utils/recipe.py:46
 msgid "Invalid recipe file"
 msgstr "Неприпустимий файл рецептів"
 
-#: vanilla_installer/utils/recipe.py:55
+#: yoyo_installer/utils/recipe.py:55
 msgid "Recipe is not a dictionary"
 msgstr "Рецепт не словник"
 
-#: vanilla_installer/utils/recipe.py:60
+#: yoyo_installer/utils/recipe.py:60
 #, python-brace-format
 msgid "Recipe is missing the '{key}' key"
 msgstr "У рецепті відсутній ключ '{key}'"
 
-#: vanilla_installer/utils/recipe.py:64
+#: yoyo_installer/utils/recipe.py:64
 msgid "Recipe steps is not a list"
 msgstr "Кроки рецепта не список"
 
-#: vanilla_installer/utils/recipe.py:69
+#: yoyo_installer/utils/recipe.py:69
 #, python-brace-format
 msgid "Step {step} is not a dictionary"
 msgstr "Крок {step} не є словником"
 
-#: vanilla_installer/views/confirm.py:78
+#: yoyo_installer/views/confirm.py:78
 msgid "Keyboard"
 msgstr "Клавіатура"
 
-#: vanilla_installer/views/confirm.py:84
+#: yoyo_installer/views/confirm.py:84
 msgid "Timezone"
 msgstr "Часовий пояс"
 
-#: vanilla_installer/views/confirm.py:90
+#: yoyo_installer/views/confirm.py:90
 msgid "Users"
 msgstr "Користувачі"
 
-#: vanilla_installer/views/confirm.py:97 vanilla_installer/views/confirm.py:106
+#: yoyo_installer/views/confirm.py:97 yoyo_installer/views/confirm.py:106
 msgid "Disk"
 msgstr "Диск"
 
-#: vanilla_installer/views/confirm.py:125
-#: vanilla_installer/windows/main_window.py:64
+#: yoyo_installer/views/confirm.py:125
+#: yoyo_installer/windows/main_window.py:64
 msgid "installation-confirmed"
 msgstr "встановлення підтверджено"
 
-#: vanilla_installer/views/done.py:38
+#: yoyo_installer/views/done.py:38
 msgid "Restart your device to enjoy your {} experience."
 msgstr "Перезапустіть пристрій, щоб насолоджуватися {}."
 
-#: vanilla_installer/views/done.py:52
+#: yoyo_installer/views/done.py:52
 msgid "Something went wrong"
 msgstr "Щось пішло не так"
 
-#: vanilla_installer/views/done.py:53
+#: yoyo_installer/views/done.py:53
 msgid "Please contact the distribution developers."
 msgstr "Будь ласка, зверніться до розробників дистрибутива."
 
-#: vanilla_installer/windows/main_window.py:62
+#: yoyo_installer/windows/main_window.py:62
 msgid "page-changed"
 msgstr "сторінка змінена"
 

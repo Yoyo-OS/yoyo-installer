@@ -2,6 +2,6 @@
 /mesonbuild
 **.pyc
 **__pycache__
-/debian/vanilla-installer
-/debian/vanilla-installer.substvars
-/debian/vanilla-installer.debhelper.log
+/debian/yoyo-installer
+/debian/yoyo-installer.substvars
+/debian/yoyo-installer.debhelper.log

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Yoyo OS Installer
+Exec=yoyo-installer
+Icon=org.yoyoos.Installer
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

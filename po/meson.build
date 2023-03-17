@@ -1,1 +1,1 @@
-i18n.gettext('vanilla-installer', preset: 'glib')
+i18n.gettext('yoyo-installer', preset: 'glib')

@@ -1,4 +1,4 @@
-project('org.vanillaos.Installer',
+project('org.yoyoos.Installer',
           version: '0.1.0',
     meson_version: '>= 0.59.0',
   default_options: [ 'warning_level=2',
@@ -11,7 +11,7 @@ i18n = import('i18n')
 gnome = import('gnome')
 
 subdir('data')
-subdir('vanilla_installer')
+subdir('yoyo_installer')
 subdir('po')
 
 gnome.post_install(

@@ -1,0 +1,3 @@
+recipe.json etc/yoyo-installer/
+installer.log etc/yoyo/
+abroot-adapter usr/bin/

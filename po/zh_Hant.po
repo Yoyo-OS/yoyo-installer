@@ -1,6 +1,6 @@
-# Chinese translations for vanilla-installer package.
-# Copyright (C) 2022 THE vanilla-installer'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the vanilla-installer package.
+# Chinese translations for yoyo-installer package.
+# Copyright (C) 2022 THE yoyo-installer'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the yoyo-installer package.
 # Automatically generated, 2022.
 #
 # lakejason0 <sunliyuan200402@outlook.com>, 2023.
@@ -8,13 +8,13 @@
 # 菘菘 <rrt467778@gmail.com>, 2023.
 msgid ""
 msgstr ""
-"Project-Id-Version: vanilla-installer\n"
+"Project-Id-Version: yoyo-installer\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-17 21:41+0530\n"
 "PO-Revision-Date: 2023-03-04 14:39+0000\n"
 "Last-Translator: 菘菘 <rrt467778@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
-"vanilla-os/installer/zh_Hant/>\n"
+"yoyo-os/installer/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,305 +22,305 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.16.2-dev\n"
 
-#: data/org.vanillaos.Installer.desktop.in:3 vanilla_installer/gtk/window.ui:8
-msgid "Vanilla OS Installer"
-msgstr "Vanilla OS 安裝程式"
+#: data/org.yoyoos.Installer.desktop.in:3 yoyo_installer/gtk/window.ui:8
+msgid "Yoyo OS Installer"
+msgstr "Yoyo OS 安裝程式"
 
-#: data/org.vanillaos.Installer.appdata.xml.in:7
-msgid "Tweak your Vanilla OS installation."
-msgstr "自訂您的 Vanilla OS。"
+#: data/org.yoyoos.Installer.appdata.xml.in:7
+msgid "Tweak your Yoyo OS installation."
+msgstr "自訂您的 Yoyo OS。"
 
-#: data/org.vanillaos.Installer.appdata.xml.in:10
+#: data/org.yoyoos.Installer.appdata.xml.in:10
 msgid "No description"
 msgstr "沒有描述"
 
-#: data/org.vanillaos.Installer.appdata.xml.in:26
+#: data/org.yoyoos.Installer.appdata.xml.in:26
 msgid "First release"
 msgstr "初版"
 
-#: vanilla_installer/gtk/confirm.ui:10
+#: yoyo_installer/gtk/confirm.ui:10
 msgid "Confirm Installation"
 msgstr "確認安裝"
 
-#: vanilla_installer/gtk/confirm.ui:11
+#: yoyo_installer/gtk/confirm.ui:11
 msgid "The following changes will be made to your system:"
 msgstr "將對系統進行以下變更："
 
-#: vanilla_installer/gtk/confirm.ui:28
-#: vanilla_installer/gtk/default-welcome.ui:86
-msgid "Install Vanilla OS"
-msgstr "安裝 Vanilla OS"
+#: yoyo_installer/gtk/confirm.ui:28
+#: yoyo_installer/gtk/default-welcome.ui:86
+msgid "Install Yoyo OS"
+msgstr "安裝 Yoyo OS"
 
-#: vanilla_installer/gtk/default-disk.ui:20
-#: vanilla_installer/gtk/default-keyboard.ui:23
-#: vanilla_installer/gtk/default-language.ui:23
-#: vanilla_installer/gtk/default-theme.ui:49
-#: vanilla_installer/gtk/default-timezone.ui:23
-#: vanilla_installer/gtk/default-users.ui:19
-#: vanilla_installer/gtk/layout-preferences.ui:29
+#: yoyo_installer/gtk/default-disk.ui:20
+#: yoyo_installer/gtk/default-keyboard.ui:23
+#: yoyo_installer/gtk/default-language.ui:23
+#: yoyo_installer/gtk/default-theme.ui:49
+#: yoyo_installer/gtk/default-timezone.ui:23
+#: yoyo_installer/gtk/default-users.ui:19
+#: yoyo_installer/gtk/layout-preferences.ui:29
 msgid "Next"
 msgstr "下一步"
 
-#: vanilla_installer/gtk/default-disk.ui:30
+#: yoyo_installer/gtk/default-disk.ui:30
 msgid "Select a Disk"
 msgstr "選取磁碟"
 
-#: vanilla_installer/gtk/default-disk.ui:31
-msgid "Select the disk where you want to install Vanilla OS"
-msgstr "選取要安裝 Vanilla OS 的磁碟"
+#: yoyo_installer/gtk/default-disk.ui:31
+msgid "Select the disk where you want to install Yoyo OS"
+msgstr "選取要安裝 Yoyo OS 的磁碟"
 
-#: vanilla_installer/gtk/default-disk.ui:41
+#: yoyo_installer/gtk/default-disk.ui:41
 msgid "Configure"
 msgstr "調配組態"
 
-#: vanilla_installer/gtk/default-keyboard.ui:33
+#: yoyo_installer/gtk/default-keyboard.ui:33
 msgid "Keyboard Layout"
 msgstr "鍵盤配置"
 
-#: vanilla_installer/gtk/default-keyboard.ui:34
+#: yoyo_installer/gtk/default-keyboard.ui:34
 msgid "Select your preferred keyboard layout"
 msgstr "選取您偏好的鍵盤配置"
 
-#: vanilla_installer/gtk/default-keyboard.ui:44
+#: yoyo_installer/gtk/default-keyboard.ui:44
 msgid "Search for a Keyboard Layout"
 msgstr "搜尋鍵盤配置"
 
-#: vanilla_installer/gtk/default-language.ui:33
-#: vanilla_installer/gtk/default-language.ui:51
-#: vanilla_installer/views/confirm.py:72
+#: yoyo_installer/gtk/default-language.ui:33
+#: yoyo_installer/gtk/default-language.ui:51
+#: yoyo_installer/views/confirm.py:72
 msgid "Language"
 msgstr "語言"
 
-#: vanilla_installer/gtk/default-language.ui:34
+#: yoyo_installer/gtk/default-language.ui:34
 msgid "Select your language"
 msgstr "選取您的語言"
 
-#: vanilla_installer/gtk/default-language.ui:44
+#: yoyo_installer/gtk/default-language.ui:44
 msgid "Search for a language"
 msgstr "搜尋語言"
 
-#: vanilla_installer/gtk/default-theme.ui:17
+#: yoyo_installer/gtk/default-theme.ui:17
 msgid "Default"
 msgstr "預設"
 
-#: vanilla_installer/gtk/default-theme.ui:29
+#: yoyo_installer/gtk/default-theme.ui:29
 msgid "Dark"
 msgstr "深色"
 
-#: vanilla_installer/gtk/default-theme.ui:42
+#: yoyo_installer/gtk/default-theme.ui:42
 msgid "Color Scheme"
 msgstr "色彩配置"
 
-#: vanilla_installer/gtk/default-theme.ui:43
+#: yoyo_installer/gtk/default-theme.ui:43
 msgid "Choose a color scheme for your system"
 msgstr "為您的系統選擇色彩配置"
 
-#: vanilla_installer/gtk/default-timezone.ui:33
+#: yoyo_installer/gtk/default-timezone.ui:33
 msgid "Date & Time"
 msgstr "日期和時間"
 
-#: vanilla_installer/gtk/default-timezone.ui:34
+#: yoyo_installer/gtk/default-timezone.ui:34
 msgid "Select your preferred timezone"
 msgstr "選取您偏好的時區"
 
-#: vanilla_installer/gtk/default-timezone.ui:44
+#: yoyo_installer/gtk/default-timezone.ui:44
 msgid "Search for a Timezone"
 msgstr "搜尋時區"
 
-#: vanilla_installer/gtk/default-timezone.ui:51
+#: yoyo_installer/gtk/default-timezone.ui:51
 msgid "Region"
 msgstr "地區"
 
-#: vanilla_installer/gtk/default-timezone.ui:59
+#: yoyo_installer/gtk/default-timezone.ui:59
 msgid "Zone"
 msgstr "時區"
 
-#: vanilla_installer/gtk/default-users.ui:40
+#: yoyo_installer/gtk/default-users.ui:40
 msgid "Create User"
 msgstr "建立使用者"
 
-#: vanilla_installer/gtk/default-users.ui:41
+#: yoyo_installer/gtk/default-users.ui:41
 msgid "Provide details for your user account"
 msgstr "提供您使用者帳戶的詳細資訊"
 
-#: vanilla_installer/gtk/default-users.ui:48
+#: yoyo_installer/gtk/default-users.ui:48
 msgid "Name"
 msgstr "名稱"
 
-#: vanilla_installer/gtk/default-users.ui:54
+#: yoyo_installer/gtk/default-users.ui:54
 msgid "Username"
 msgstr "使用者名稱"
 
-#: vanilla_installer/gtk/default-users.ui:60
+#: yoyo_installer/gtk/default-users.ui:60
 msgid "Password"
 msgstr "密碼"
 
-#: vanilla_installer/gtk/default-users.ui:66
+#: yoyo_installer/gtk/default-users.ui:66
 msgid "Confirm Password"
 msgstr "確認密碼"
 
-#: vanilla_installer/gtk/default-welcome.ui:51
-msgid "Try Vanilla OS"
-msgstr "試用 Vanilla OS"
+#: yoyo_installer/gtk/default-welcome.ui:51
+msgid "Try Yoyo OS"
+msgstr "試用 Yoyo OS"
 
-#: vanilla_installer/gtk/dialog-disk-confirm.ui:6
-#: vanilla_installer/gtk/dialog-disk-confirm.ui:25
-#: vanilla_installer/gtk/dialog-disk-confirm.ui:36
+#: yoyo_installer/gtk/dialog-disk-confirm.ui:6
+#: yoyo_installer/gtk/dialog-disk-confirm.ui:25
+#: yoyo_installer/gtk/dialog-disk-confirm.ui:36
 msgid "Confirm Changes"
 msgstr "確認變更"
 
-#: vanilla_installer/gtk/dialog-disk-confirm.ui:18
-#: vanilla_installer/gtk/dialog-disk.ui:17
+#: yoyo_installer/gtk/dialog-disk-confirm.ui:18
+#: yoyo_installer/gtk/dialog-disk.ui:17
 msgid "Cancel"
 msgstr "取消"
 
-#: vanilla_installer/gtk/dialog-disk-confirm.ui:26
+#: yoyo_installer/gtk/dialog-disk-confirm.ui:26
 msgid ""
 "The following changes will be made to your disk. Please review them "
 "carefully."
 msgstr "將對磁碟進行以下變更。請仔細檢查。"
 
-#: vanilla_installer/gtk/dialog-disk.ui:5
+#: yoyo_installer/gtk/dialog-disk.ui:5
 msgid "Configure Disk"
 msgstr "調配磁碟"
 
-#: vanilla_installer/gtk/dialog-disk.ui:22
+#: yoyo_installer/gtk/dialog-disk.ui:22
 msgid "Apply"
 msgstr "套用"
 
-#: vanilla_installer/gtk/dialog.ui:6
+#: yoyo_installer/gtk/dialog.ui:6
 msgid "Showing Information"
 msgstr "顯示資訊"
 
-#: vanilla_installer/gtk/dialog-output.ui:6
+#: yoyo_installer/gtk/dialog-output.ui:6
 msgid "Log"
 msgstr "記錄"
 
-#: vanilla_installer/gtk/done.ui:12
+#: yoyo_installer/gtk/done.ui:12
 msgid "All done!"
 msgstr "大功告成！"
 
-#: vanilla_installer/gtk/done.ui:13
-msgid "Restart your device to enjoy your Vanilla OS experience"
-msgstr "裝置重新開機，開始您的 Vanilla OS 之旅"
+#: yoyo_installer/gtk/done.ui:13
+msgid "Restart your device to enjoy your Yoyo OS experience"
+msgstr "裝置重新開機，開始您的 Yoyo OS 之旅"
 
-#: vanilla_installer/gtk/done.ui:23
+#: yoyo_installer/gtk/done.ui:23
 msgid "Show Log"
 msgstr "顯示記錄"
 
-#: vanilla_installer/gtk/done.ui:32
+#: yoyo_installer/gtk/done.ui:32
 msgid "Reboot Now"
 msgstr "立即重新開機"
 
-#: vanilla_installer/gtk/done.ui:42
+#: yoyo_installer/gtk/done.ui:42
 msgid "Close"
 msgstr "關閉"
 
-#: vanilla_installer/gtk/layout-yes-no.ui:36
+#: yoyo_installer/gtk/layout-yes-no.ui:36
 msgid "Yes, enable it"
 msgstr "是的，請啟用"
 
-#: vanilla_installer/gtk/progress.ui:70
+#: yoyo_installer/gtk/progress.ui:70
 msgid "Installing..."
 msgstr "正在安裝…"
 
-#: vanilla_installer/gtk/progress.ui:91
+#: yoyo_installer/gtk/progress.ui:91
 msgid "Show Console output"
 msgstr "顯示主控台輸出"
 
-#: vanilla_installer/gtk/progress.ui:106
+#: yoyo_installer/gtk/progress.ui:106
 msgid "Show Slideshow"
 msgstr "顯示投影片"
 
-#: vanilla_installer/gtk/widget-partition.ui:7
+#: yoyo_installer/gtk/widget-partition.ui:7
 msgid "Disk Allocation"
 msgstr "磁碟配置"
 
-#: vanilla_installer/gtk/widget-partition.ui:8
-msgid "Choose how to install Vanilla OS on your drive."
-msgstr "選取要安裝 Vanilla OS 的磁碟。"
+#: yoyo_installer/gtk/widget-partition.ui:8
+msgid "Choose how to install Yoyo OS on your drive."
+msgstr "選取要安裝 Yoyo OS 的磁碟。"
 
-#: vanilla_installer/gtk/widget-partition.ui:11
+#: yoyo_installer/gtk/widget-partition.ui:11
 msgid "Entire Disk"
 msgstr "整個磁碟"
 
-#: vanilla_installer/gtk/widget-partition.ui:12
+#: yoyo_installer/gtk/widget-partition.ui:12
 msgid "This will erase all data on the disk."
 msgstr "這將清除磁碟上的所有資料。"
 
-#: vanilla_installer/gtk/widget-partition.ui:23
+#: yoyo_installer/gtk/widget-partition.ui:23
 msgid "Manual Partitioning"
 msgstr "手動分割"
 
-#: vanilla_installer/gtk/widget-partition.ui:24
+#: yoyo_installer/gtk/widget-partition.ui:24
 msgid ""
 "Select which partitions to use for installation. Incorrect configuration can "
 "lead to data loss, corruption, and/or an unbootable system."
 msgstr "選取用於安裝的分割區。錯誤的組態可能會導致資料遺失、損毀、或無法啟動系統。"
 
-#: vanilla_installer/gtk/widget-partition.ui:39
+#: yoyo_installer/gtk/widget-partition.ui:39
 msgid "Open GParted"
 msgstr "開啟 GParted"
 
-#: vanilla_installer/gtk/widget-partition.ui:40
+#: yoyo_installer/gtk/widget-partition.ui:40
 msgid "Open GParted to manually partition the disk"
 msgstr "開啟 GParted 手動進行磁碟分割"
 
-#: vanilla_installer/gtk/widget-partition.ui:57
+#: yoyo_installer/gtk/widget-partition.ui:57
 msgid "Boot Partition"
 msgstr "開機磁碟分割"
 
-#: vanilla_installer/gtk/widget-partition.ui:58
+#: yoyo_installer/gtk/widget-partition.ui:58
 msgid ""
 "The partition to mount under “/boot”. This directory stores files for "
-"booting in Vanilla OS."
-msgstr "要掛接到「/boot」的分割區。這個目錄中儲存的檔案將用於啟動 Vanilla OS。"
+"booting in Yoyo OS."
+msgstr "要掛接到「/boot」的分割區。這個目錄中儲存的檔案將用於啟動 Yoyo OS。"
 
-#: vanilla_installer/gtk/widget-partition.ui:61
-#: vanilla_installer/gtk/widget-partition.ui:82
-#: vanilla_installer/gtk/widget-partition.ui:103
-#: vanilla_installer/gtk/widget-partition.ui:152
-#: vanilla_installer/gtk/widget-partition.ui:166
-#: vanilla_installer/gtk/widget-partition.ui:197
-#: vanilla_installer/gtk/widget-partition.ui:230
-#: vanilla_installer/defaults/disk.py:467
+#: yoyo_installer/gtk/widget-partition.ui:61
+#: yoyo_installer/gtk/widget-partition.ui:82
+#: yoyo_installer/gtk/widget-partition.ui:103
+#: yoyo_installer/gtk/widget-partition.ui:152
+#: yoyo_installer/gtk/widget-partition.ui:166
+#: yoyo_installer/gtk/widget-partition.ui:197
+#: yoyo_installer/gtk/widget-partition.ui:230
+#: yoyo_installer/defaults/disk.py:467
 msgid "No partition selected"
 msgstr "未選取分割區"
 
-#: vanilla_installer/gtk/widget-partition.ui:62
-#: vanilla_installer/gtk/widget-partition.ui:83
-#: vanilla_installer/gtk/widget-partition.ui:104
-#: vanilla_installer/gtk/widget-partition.ui:153
-#: vanilla_installer/gtk/widget-partition.ui:167
-#: vanilla_installer/gtk/widget-partition.ui:198
-#: vanilla_installer/gtk/widget-partition.ui:231
-#: vanilla_installer/defaults/disk.py:469
+#: yoyo_installer/gtk/widget-partition.ui:62
+#: yoyo_installer/gtk/widget-partition.ui:83
+#: yoyo_installer/gtk/widget-partition.ui:104
+#: yoyo_installer/gtk/widget-partition.ui:153
+#: yoyo_installer/gtk/widget-partition.ui:167
+#: yoyo_installer/gtk/widget-partition.ui:198
+#: yoyo_installer/gtk/widget-partition.ui:231
+#: yoyo_installer/defaults/disk.py:469
 msgid "Please select a partition from the options below"
 msgstr "請在下面的選項中選取一個分割區"
 
-#: vanilla_installer/gtk/widget-partition.ui:73
+#: yoyo_installer/gtk/widget-partition.ui:73
 msgid "Boot partition is too small."
 msgstr "開機磁碟分割過小。"
 
-#: vanilla_installer/gtk/widget-partition.ui:78
+#: yoyo_installer/gtk/widget-partition.ui:78
 msgid "EFI Partition"
 msgstr "EFI 分割區"
 
-#: vanilla_installer/gtk/widget-partition.ui:79
+#: yoyo_installer/gtk/widget-partition.ui:79
 msgid ""
 "The partition to mount under “/boot/efi”. This directory stores files for "
 "booting in the bootloader."
 msgstr "要掛接到「/boot/efi」的分割區。這個目錄中儲存的檔案將用於啟動開機載入器。"
 
-#: vanilla_installer/gtk/widget-partition.ui:94
+#: yoyo_installer/gtk/widget-partition.ui:94
 msgid "EFI partition is too small."
 msgstr "EFI 分割區過小。"
 
-#: vanilla_installer/gtk/widget-partition.ui:99
+#: yoyo_installer/gtk/widget-partition.ui:99
 msgid "BIOS Boot Partition"
 msgstr "BIOS 開機磁碟分割"
 
-#: vanilla_installer/gtk/widget-partition.ui:100
+#: yoyo_installer/gtk/widget-partition.ui:100
 msgid ""
 "The partition required by GPT-formatted disks to support booting from BIOS "
 "systems. It must be located in the first 2 TB of the disk and must be "
@@ -328,198 +328,198 @@ msgid ""
 msgstr "GPT 格式的硬碟支援從 BIOS 系統引導所需的分割區。該分割區必須位於硬碟的前 2 "
 "TB 中且正好為 1 兆位元組 （1 MiB）。"
 
-#: vanilla_installer/gtk/widget-partition.ui:115
+#: yoyo_installer/gtk/widget-partition.ui:115
 msgid "BIOS partition must be exactly 1 MiB."
 msgstr "BIOS 分割區必須恰好為 1 MiB。"
 
-#: vanilla_installer/gtk/widget-partition.ui:120
+#: yoyo_installer/gtk/widget-partition.ui:120
 msgid "Root Partitions"
 msgstr "根分割區"
 
-#: vanilla_installer/gtk/widget-partition.ui:121
+#: yoyo_installer/gtk/widget-partition.ui:121
 msgid ""
 "The partitions to mount under “/”. Both partitions must be the same size."
 msgstr "要掛接到「/」的分割區。兩個分割區的大小必須相同。"
 
-#: vanilla_installer/gtk/widget-partition.ui:134
+#: yoyo_installer/gtk/widget-partition.ui:134
 msgid ""
-"Vanilla OS uses an A/B partition system managed by ABRoot,\n"
+"Yoyo OS uses an A/B partition system managed by ABRoot,\n"
 "which switches between two root partitions between updates."
 msgstr ""
-"Vanilla OS 使用由 ABRoot 管理的 A/B 分割區系統， \n"
+"Yoyo OS 使用由 ABRoot 管理的 A/B 分割區系統， \n"
 "它在更新之間的兩個根分割區之間切換。"
 
-#: vanilla_installer/gtk/widget-partition.ui:178
+#: yoyo_installer/gtk/widget-partition.ui:178
 msgid "Root partitions are not the same size."
 msgstr ""
 
-#: vanilla_installer/gtk/widget-partition.ui:179
+#: yoyo_installer/gtk/widget-partition.ui:179
 msgid "Please make sure your A and B partitions have the same disk space."
 msgstr ""
 
-#: vanilla_installer/gtk/widget-partition.ui:188
+#: yoyo_installer/gtk/widget-partition.ui:188
 msgid "Root partitions are too small."
 msgstr ""
 
-#: vanilla_installer/gtk/widget-partition.ui:193
+#: yoyo_installer/gtk/widget-partition.ui:193
 msgid "Home Partition"
 msgstr "主分割區"
 
-#: vanilla_installer/gtk/widget-partition.ui:194
+#: yoyo_installer/gtk/widget-partition.ui:194
 msgid ""
 "The partition to mount under “/home”. This directory stores all user data."
 msgstr ""
 
-#: vanilla_installer/gtk/widget-partition.ui:209
+#: yoyo_installer/gtk/widget-partition.ui:209
 msgid "Home partition is too small."
 msgstr "主分割區過小。"
 
-#: vanilla_installer/gtk/widget-partition.ui:214
-#: vanilla_installer/gtk/widget-partition.ui:218
+#: yoyo_installer/gtk/widget-partition.ui:214
+#: yoyo_installer/gtk/widget-partition.ui:218
 msgid "Swap partition"
 msgstr "交換分割區"
 
-#: vanilla_installer/gtk/widget-partition.ui:215
+#: yoyo_installer/gtk/widget-partition.ui:215
 msgid ""
 "Swap acts as a virtual extension of your RAM and enables hibernation. "
-"Vanilla OS already uses zram to provide swapping at no storage cost."
+"Yoyo OS already uses zram to provide swapping at no storage cost."
 msgstr ""
 
-#: vanilla_installer/gtk/widget-partition.ui:219
+#: yoyo_installer/gtk/widget-partition.ui:219
 msgid ""
 "Choose a partition to use for swap alongside zram. This is not required for "
 "hibernation."
 msgstr ""
 
-#: vanilla_installer/gtk/window.ui:39
+#: yoyo_installer/gtk/window.ui:39
 msgid "Back"
 msgstr "返回"
 
-#: vanilla_installer/defaults/disk.py:42
+#: yoyo_installer/defaults/disk.py:42
 #, python-brace-format
 msgid "Not enough space: {0}/{1}"
 msgstr "沒有足夠的空間：{0}/{1}"
 
-#: vanilla_installer/defaults/disk.py:57
+#: yoyo_installer/defaults/disk.py:57
 msgid "This is the only disk available and cannot be deselected!"
 msgstr "這是唯一可用的磁碟，無法取消選取！"
 
-#: vanilla_installer/defaults/disk.py:332
+#: yoyo_installer/defaults/disk.py:332
 msgid "GParted is already running. Only one instance of GParted is permitted."
 msgstr "GParted 已在執行。僅允許一個 GParted 執行個體。"
 
-#: vanilla_installer/defaults/disk.py:431
+#: yoyo_installer/defaults/disk.py:431
 msgid "Partition must be at least {}"
 msgstr "分割區必須至少為 {}"
 
-#: vanilla_installer/defaults/disk.py:454
+#: yoyo_installer/defaults/disk.py:454
 msgid "Partition must EXACTLY {}"
 msgstr "分割區必須恰好為 {}"
 
-#: vanilla_installer/defaults/disk.py:556
+#: yoyo_installer/defaults/disk.py:556
 msgid "Partitions have changed. Current selections have been cleared."
 msgstr "分割區已變更。目前選取的項目已被清除。"
 
-#: vanilla_installer/defaults/disk.py:621
+#: yoyo_installer/defaults/disk.py:621
 msgid "Entire disk will be used."
 msgstr "將使用整個磁碟。"
 
-#: vanilla_installer/defaults/disk.py:628
+#: yoyo_installer/defaults/disk.py:628
 msgid "Will be formatted in {} and mounted in {}"
 msgstr "將格式化為 {} 並掛載到 {}"
 
 #. signals
-#: vanilla_installer/layouts/preferences.py:42
-#: vanilla_installer/views/confirm.py:122
-#: vanilla_installer/views/progress.py:51
-#: vanilla_installer/views/progress.py:52
-#: vanilla_installer/windows/main_window.py:61
+#: yoyo_installer/layouts/preferences.py:42
+#: yoyo_installer/views/confirm.py:122
+#: yoyo_installer/views/progress.py:51
+#: yoyo_installer/views/progress.py:52
+#: yoyo_installer/windows/main_window.py:61
 msgid "clicked"
 msgstr "已按下"
 
-#: vanilla_installer/layouts/preferences.py:68
+#: yoyo_installer/layouts/preferences.py:68
 msgid "Please select at least one option."
 msgstr "請至少選取一個選項。"
 
-#: vanilla_installer/utils/builder.py:67
+#: yoyo_installer/utils/builder.py:67
 msgid "Missing 'log_file' in the recipe."
 msgstr ""
 
-#: vanilla_installer/utils/builder.py:76
+#: yoyo_installer/utils/builder.py:76
 #, python-format
 msgid "failed to create log file: %s"
 msgstr "無法建立記錄檔：%s"
 
-#: vanilla_installer/utils/builder.py:77
+#: yoyo_installer/utils/builder.py:77
 msgid "No log will be stored."
 msgstr "記錄檔將不會儲存。"
 
-#: vanilla_installer/utils/builder.py:84
+#: yoyo_installer/utils/builder.py:84
 #, python-format
 msgid "Performing display-condition: %s"
 msgstr "正在執行 display-condition: %s"
 
-#: vanilla_installer/utils/builder.py:87 vanilla_installer/utils/builder.py:90
+#: yoyo_installer/utils/builder.py:87 yoyo_installer/utils/builder.py:90
 #, python-format
 msgid "Step %s skipped due to display-conditions"
 msgstr "由於 display-condition 而跳過步驟 %s"
 
-#: vanilla_installer/utils/recipe.py:46
+#: yoyo_installer/utils/recipe.py:46
 msgid "Invalid recipe file"
 msgstr ""
 
-#: vanilla_installer/utils/recipe.py:55
+#: yoyo_installer/utils/recipe.py:55
 msgid "Recipe is not a dictionary"
 msgstr ""
 
-#: vanilla_installer/utils/recipe.py:60
+#: yoyo_installer/utils/recipe.py:60
 #, python-brace-format
 msgid "Recipe is missing the '{key}' key"
 msgstr ""
 
-#: vanilla_installer/utils/recipe.py:64
+#: yoyo_installer/utils/recipe.py:64
 msgid "Recipe steps is not a list"
 msgstr ""
 
-#: vanilla_installer/utils/recipe.py:69
+#: yoyo_installer/utils/recipe.py:69
 #, python-brace-format
 msgid "Step {step} is not a dictionary"
 msgstr ""
 
-#: vanilla_installer/views/confirm.py:78
+#: yoyo_installer/views/confirm.py:78
 msgid "Keyboard"
 msgstr "鍵盤"
 
-#: vanilla_installer/views/confirm.py:84
+#: yoyo_installer/views/confirm.py:84
 msgid "Timezone"
 msgstr "時區"
 
-#: vanilla_installer/views/confirm.py:90
+#: yoyo_installer/views/confirm.py:90
 msgid "Users"
 msgstr "使用者"
 
-#: vanilla_installer/views/confirm.py:97 vanilla_installer/views/confirm.py:106
+#: yoyo_installer/views/confirm.py:97 yoyo_installer/views/confirm.py:106
 msgid "Disk"
 msgstr "磁碟"
 
-#: vanilla_installer/views/confirm.py:125
-#: vanilla_installer/windows/main_window.py:64
+#: yoyo_installer/views/confirm.py:125
+#: yoyo_installer/windows/main_window.py:64
 msgid "installation-confirmed"
 msgstr "安裝確認"
 
-#: vanilla_installer/views/done.py:38
+#: yoyo_installer/views/done.py:38
 msgid "Restart your device to enjoy your {} experience."
 msgstr "重新啟動您的裝置，開始您的 {} 之旅。"
 
-#: vanilla_installer/views/done.py:52
+#: yoyo_installer/views/done.py:52
 msgid "Something went wrong"
 msgstr "出了點問題"
 
-#: vanilla_installer/views/done.py:53
+#: yoyo_installer/views/done.py:53
 msgid "Please contact the distribution developers."
 msgstr "請聯絡散布版開發人員。"
 
-#: vanilla_installer/windows/main_window.py:62
+#: yoyo_installer/windows/main_window.py:62
 msgid "page-changed"
 msgstr "頁面變更"
 

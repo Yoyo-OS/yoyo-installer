@@ -1,48 +1,48 @@
-vanilla-installer (1.3.0) unstable; urgency=critical
+yoyo-installer (1.3.0) unstable; urgency=critical
 
   * custom gnome-shell session
 
  -- Mirko Brombin <send@mirko.pm>  Mon, 27 Feb 2023 17:39:00 +0000
 
-vanilla-installer (1.2.2) lunar; urgency=critical
+yoyo-installer (1.2.2) lunar; urgency=critical
 
   * gtk4 changes
 
  -- Mirko Brombin <send@mirko.pm>  Mon, 27 Feb 2023 09:07:00 +0000
 
-vanilla-installer (1.2.1-1) lunar; urgency=critical
+yoyo-installer (1.2.1-1) lunar; urgency=critical
 
   * Updated translations
 
  -- Mirko Brombin <send@mirko.pm>  Sat, 25 Feb 2023 23:06:00 +0000
  
-vanilla-installer (1.2.1) kinetic; urgency=critical
+yoyo-installer (1.2.1) kinetic; urgency=critical
 
   * Updated translations
 
  -- Mirko Brombin <send@mirko.pm>  Sat, 25 Feb 2023 23:06:00 +0000
 
-vanilla-installer (1.2.0-1) kinetic; urgency=critical
+yoyo-installer (1.2.0-1) kinetic; urgency=critical
 
   * Fix manual partitioning with partition numbers greater or equal to 10
 
  -- Mateus Melchiades <matbme@duck.com>  Sun, 19 Feb 2023 10:24:00 -0300
 
-vanilla-installer (1.2.0) kinetic; urgency=medium
+yoyo-installer (1.2.0) kinetic; urgency=medium
 
   * Support for manual partitioning
-  * Add default GRUB config for Vanilla OS during installation
+  * Add default GRUB config for Yoyo OS during installation
   * Update translations
 
  -- Mateus Melchiades <matbme@duck.com>  Sat, 18 Feb 2023 11:11:00 -0300
 
-vanilla-installer (1.1.2-1) kinetic; urgency=critical
+yoyo-installer (1.1.2-1) kinetic; urgency=critical
 
   * Improved timezone syntax
 
  -- Mirko Brombin <send@mirko.pm>  Mon, 16 Jan 2023 15:01:00 +0000
 
-vanilla-installer (1.1.1) kinetic; urgency=critical
+yoyo-installer (1.1.1) kinetic; urgency=critical
 
   * Correct timezone codes for Distinst
   * Update translations
@@ -50,56 +50,56 @@ vanilla-installer (1.1.1) kinetic; urgency=critical
 
  -- Mirko Brombin <send@mirko.pm>  Mon, 16 Jan 2023 15:01:00 +0000
 
-vanilla-installer (1.0.6) kinetic; urgency=critical
+yoyo-installer (1.0.6) kinetic; urgency=critical
 
   * Fix window freeze changing keyboard layout
   * Make all seaarches case insensitive (also special characters)
 
  -- Mirko Brombin <send@mirko.pm>  Mon, 16 Jan 2023 15:01:00 +0000
 
-vanilla-installer (1.0.5) kinetic; urgency=critical
+yoyo-installer (1.0.5) kinetic; urgency=critical
 
   * Fix timezone not being set
 
  -- Mirko Brombin <send@mirko.pm>  Mon, 16 Jan 2023 15:01:00 +0000
 
-vanilla-installer (1.0.4) kinetic; urgency=critical
+yoyo-installer (1.0.4) kinetic; urgency=critical
 
   * Update translations
 
  -- Mirko Brombin <send@mirko.pm>  Sun, 01 Jan 2022 14:49:00 +0000
 
-vanilla-installer (1.0.3) kinetic; urgency=critical
+yoyo-installer (1.0.3) kinetic; urgency=critical
 
   * Prevent from using root as username
 
  -- Mirko Brombin <send@mirko.pm>  Sun, 01 Jan 2022 14:49:00 +0000
 
-vanilla-installer (1.0.2) kinetic; urgency=critical
+yoyo-installer (1.0.2) kinetic; urgency=critical
 
   * Fix wrong root partitions listing
 
  -- Mirko Brombin <send@mirko.pm>  Mon, 19 Dec 2022 11:46:00 +0000
 
- vanilla-installer (0.4.4) kinetic; urgency=medium
+ yoyo-installer (0.4.4) kinetic; urgency=medium
 
   * Minor fixes
 
  -- Mirko Brombin <send@mirko.pm>  Sun, 18 Dec 2022 08:25:00 +0000
 
- vanilla-installer (0.4.3) kinetic; urgency=critical
+ yoyo-installer (0.4.3) kinetic; urgency=critical
 
   * Fix find_partitions returning a list of tuples instead of strings
 
  -- Mirko Brombin <send@mirko.pm>  Thu, 14 Dec 2022 08:25:00 +0000
 
- vanilla-installer (0.4.2) kinetic; urgency=low
+ yoyo-installer (0.4.2) kinetic; urgency=low
 
   * Minor fixes
 
  -- Mirko Brombin <send@mirko.pm>  Mon, 12 Dec 2022 17:58:00 +0000
 
-vanilla-installer (0.4.1) kinetic; urgency=low
+yoyo-installer (0.4.1) kinetic; urgency=low
 
   * Adapt to ABRoot 0.2
 

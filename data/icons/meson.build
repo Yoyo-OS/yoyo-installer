@@ -1,4 +1,4 @@
-application_id = 'org.vanillaos.Installer'
+application_id = 'org.yoyoos.Installer'
 
 
 scalable_dir = join_paths('hicolor', 'scalable', 'apps')
@@ -19,14 +19,14 @@ install_data(
 
 
 install_data(
-    join_paths(actions_dir, 'vanilla-installer-harddisk-symbolic.svg'),
+    join_paths(actions_dir, 'yoyo-installer-harddisk-symbolic.svg'),
     install_dir: join_paths(get_option('datadir'), 'icons', 'hicolor', 'scalable', 'actions')
 )
 install_data(
-    join_paths(actions_dir, 'vanilla-installer-display-with-window-symbolic.svg'),
+    join_paths(actions_dir, 'yoyo-installer-display-with-window-symbolic.svg'),
     install_dir: join_paths(get_option('datadir'), 'icons', 'hicolor', 'scalable', 'actions')
 )
 install_data(
-    join_paths(actions_dir, 'vanilla-logo-text-symbolic.svg'),
+    join_paths(actions_dir, 'yoyo-logo-text-symbolic.svg'),
     install_dir: join_paths(get_option('datadir'), 'icons', 'hicolor', 'scalable', 'actions')
 )

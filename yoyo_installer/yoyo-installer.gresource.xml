@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/yoyoos/Installer">
+    <file>gtk/window.ui</file>
+    <file>gtk/confirm.ui</file>
+    <file>gtk/done.ui</file>
+    <file>gtk/progress.ui</file>
+    <file>gtk/tour.ui</file>
+
+    <file>gtk/dialog.ui</file>
+    <file>gtk/dialog-output.ui</file>
+    <file>gtk/dialog-disk.ui</file>
+    <file>gtk/dialog-disk-confirm.ui</file>
+
+    <file>gtk/default-theme.ui</file>
+    <file>gtk/default-welcome.ui</file>
+    <file>gtk/default-language.ui</file>
+    <file>gtk/default-keyboard.ui</file>
+    <file>gtk/default-timezone.ui</file>
+    <file>gtk/default-users.ui</file>
+    <file>gtk/default-disk.ui</file>
+
+    <file>gtk/widget-choice.ui</file>
+    <file>gtk/widget-choice-expander.ui</file>
+    <file>gtk/widget-disk.ui</file>
+    <file>gtk/widget-partition-row.ui</file>
+    <file>gtk/widget-partition.ui</file>
+
+    <file>gtk/layout-preferences.ui</file>
+    <file>gtk/layout-yes-no.ui</file>
+  </gresource>
+  <gresource prefix="/org/yoyoos/Installer">
+    <file>assets/welcome.svg</file>
+    <file>assets/complete.svg</file>
+    <file>assets/control-center.svg</file>
+    <file>assets/containerized.svg</file>
+</gresource>
+  <gresource prefix="/org/yoyoos/Installer/icons/scalable/actions/">
+    <file preprocess="xml-stripblanks">../data/icons/hicolor/symbolic/actions/yoyo-installer-harddisk-symbolic.svg</file>
+    <file preprocess="xml-stripblanks">../data/icons/hicolor/symbolic/actions/yoyo-installer-display-with-window-symbolic.svg</file>
+    <file preprocess="xml-stripblanks">../data/icons/hicolor/symbolic/actions/yoyo-logo-text-symbolic.svg</file>
+  </gresource>
+</gresources>

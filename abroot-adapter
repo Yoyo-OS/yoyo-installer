@@ -181,10 +181,10 @@ initrd  /initrd.img-%s
     boot_content += boot_entry % ("A", boot_uuid, kernel, root_a_uuid, kernel)
     boot_content += boot_entry % ("B", boot_uuid, kernel, root_b_uuid, kernel)
 
-    with open("/tmp/10_vanilla", "w") as f:
+    with open("/tmp/10_yoyo", "w") as f:
         f.write(boot_content)
 
-    subprocess.check_call(["sudo", "chmod", "777", "/tmp/10_vanilla"])
+    subprocess.check_call(["sudo", "chmod", "777", "/tmp/10_yoyo"])
 
 
 def get_kernel_version(root):
@@ -344,8 +344,8 @@ def entry_point(disk: dict, timezone: dict):
     logger.info("getting kernel version")
     kernel = get_kernel_version("/mnt/a")
 
-    # generating 10_vanilla grub file
-    logger.info("generating 10_vanilla grub file")
+    # generating 10_yoyo grub file
+    logger.info("generating 10_yoyo grub file")
     generate_grub_file(boot_uuid, root_a_uuid, root_b_uuid, kernel)
 
     # adapting A grub
@@ -359,7 +359,7 @@ GRUB_TIMEOUT_STYLE=hidden"""
         f.write(grub_default)
 
     subprocess.check_call(
-        ["sudo", "cp", "/tmp/10_vanilla", "/mnt/a/.system/etc/grub.d/10_vanilla"]
+        ["sudo", "cp", "/tmp/10_yoyo", "/mnt/a/.system/etc/grub.d/10_yoyo"]
     )
     subprocess.check_call(["sudo", "rm", "/mnt/a/.system/etc/grub.d/10_linux"])
     subprocess.check_call(["sudo", "rm", "/mnt/a/.system/etc/grub.d/20_memtest86+"])
