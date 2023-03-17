@@ -10,6 +10,10 @@
     <img src="data/screenshot.png">
 </div>
 
+## Copyright Notice
+This project is forked from Vanilla os, the purpose is to adapt to the special functions of Yoyo os.
+We follow the original GPLv3 agreement, modify and retain the original open source agreement, please note that if there are related vanilla trademarks or other logos, this organization has no commercial rights.
+
 ## Build
 ### Dependencies
 - build-essential
