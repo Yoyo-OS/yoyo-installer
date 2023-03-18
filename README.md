@@ -14,6 +14,15 @@
 This project is forked from Vanilla os, the purpose is to adapt to the special functions of Yoyo os.
 We follow the original GPLv3 agreement, modify and retain the original open source agreement, please note that if there are related vanilla trademarks or other logos, this organization has no commercial rights.
 
+## TODO
+
+[x] Timezone by ip [currently can not use in china]
+
+[ ] Btrfs support [use btrfs for a/b root by default, which can save storage]
+
+[ ] virtual disks like magisks
+
+
 ## Build
 ### Dependencies
 - build-essential
