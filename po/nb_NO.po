@@ -224,7 +224,7 @@ msgstr "Installerer..."
 
 #: yoyo_installer/gtk/progress.ui:91
 msgid "Show Console output"
-msgstr ""
+msgstr "Vis konsollutskrift"
 
 #: yoyo_installer/gtk/progress.ui:106
 msgid "Show Slideshow"

@@ -4,6 +4,7 @@
 # Automatically generated, 2022.
 #
 # azuki <ipadgoogcloud@gmail.com>, 2023.
+# Ryo Nakano <ryonakaknock3@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: yoyo-installer\n"
@@ -18,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 
 #: data/org.yoyoos.Installer.desktop.in:3 yoyo_installer/gtk/window.ui:8
 msgid "Yoyo OS Installer"

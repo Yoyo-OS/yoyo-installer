@@ -8,13 +8,16 @@ msgstr ""
 "Project-Id-Version: yoyo-installer\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-17 21:41+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-03-19 23:41+0000\n"
+"Last-Translator: Frederik Pjetri <rikpjetri@gmail.com>\n"
+"Language-Team: Albanian <https://hosted.weblate.org/projects/vanilla-os/"
+"installer/sq/>\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 
 #: data/org.yoyoos.Installer.desktop.in:3 yoyo_installer/gtk/window.ui:8
 msgid "Yoyo OS Installer"
@@ -26,11 +29,11 @@ msgstr ""
 
 #: data/org.yoyoos.Installer.appdata.xml.in:10
 msgid "No description"
-msgstr ""
+msgstr "pa pershkrim"
 
 #: data/org.yoyoos.Installer.appdata.xml.in:26
 msgid "First release"
-msgstr ""
+msgstr "Lëshimi i parë"
 
 #: yoyo_installer/gtk/confirm.ui:10
 msgid "Confirm Installation"
@@ -53,7 +56,7 @@ msgstr ""
 #: yoyo_installer/gtk/default-users.ui:19
 #: yoyo_installer/gtk/layout-preferences.ui:29
 msgid "Next"
-msgstr ""
+msgstr "Tjetra"
 
 #: yoyo_installer/gtk/default-disk.ui:30
 msgid "Select a Disk"
@@ -95,15 +98,15 @@ msgstr ""
 
 #: yoyo_installer/gtk/default-theme.ui:17
 msgid "Default"
-msgstr ""
+msgstr "E paracaktuar"
 
 #: yoyo_installer/gtk/default-theme.ui:29
 msgid "Dark"
-msgstr ""
+msgstr "E errët"
 
 #: yoyo_installer/gtk/default-theme.ui:42
 msgid "Color Scheme"
-msgstr ""
+msgstr "Skema e ngjyrave"
 
 #: yoyo_installer/gtk/default-theme.ui:43
 msgid "Choose a color scheme for your system"
@@ -139,7 +142,7 @@ msgstr ""
 
 #: yoyo_installer/gtk/default-users.ui:48
 msgid "Name"
-msgstr ""
+msgstr "Emri"
 
 #: yoyo_installer/gtk/default-users.ui:54
 msgid "Username"
@@ -184,7 +187,7 @@ msgstr ""
 
 #: yoyo_installer/gtk/dialog.ui:6
 msgid "Showing Information"
-msgstr ""
+msgstr "Shfaqja e informacionit"
 
 #: yoyo_installer/gtk/dialog-output.ui:6
 msgid "Log"
@@ -192,7 +195,7 @@ msgstr ""
 
 #: yoyo_installer/gtk/done.ui:12
 msgid "All done!"
-msgstr ""
+msgstr "Gjithçka u krye!"
 
 #: yoyo_installer/gtk/done.ui:13
 msgid "Restart your device to enjoy your Yoyo OS experience"
@@ -212,19 +215,19 @@ msgstr ""
 
 #: yoyo_installer/gtk/layout-yes-no.ui:36
 msgid "Yes, enable it"
-msgstr ""
+msgstr "Po, aktivizojeni"
 
 #: yoyo_installer/gtk/progress.ui:70
 msgid "Installing..."
-msgstr ""
+msgstr "Po instalohet..."
 
 #: yoyo_installer/gtk/progress.ui:91
 msgid "Show Console output"
-msgstr ""
+msgstr "Shfaq daljen e konsolës"
 
 #: yoyo_installer/gtk/progress.ui:106
 msgid "Show Slideshow"
-msgstr ""
+msgstr "Shfaq Slideshow"
 
 #: yoyo_installer/gtk/widget-partition.ui:7
 msgid "Disk Allocation"
@@ -384,7 +387,7 @@ msgstr ""
 
 #: yoyo_installer/gtk/window.ui:39
 msgid "Back"
-msgstr ""
+msgstr "Mbrapa"
 
 #: yoyo_installer/defaults/disk.py:42
 #, python-brace-format
@@ -430,7 +433,7 @@ msgstr ""
 
 #: yoyo_installer/layouts/preferences.py:68
 msgid "Please select at least one option."
-msgstr ""
+msgstr "Ju lutemi zgjidhni të paktën një opsion."
 
 #: yoyo_installer/utils/builder.py:67
 msgid "Missing 'log_file' in the recipe."
@@ -500,15 +503,15 @@ msgstr ""
 
 #: yoyo_installer/views/done.py:38
 msgid "Restart your device to enjoy your {} experience."
-msgstr ""
+msgstr "Rinisni pajisjen tuaj për të shijuar përvojën tuaj të {}."
 
 #: yoyo_installer/views/done.py:52
 msgid "Something went wrong"
-msgstr ""
+msgstr "Dicka shkoi keq"
 
 #: yoyo_installer/views/done.py:53
 msgid "Please contact the distribution developers."
-msgstr ""
+msgstr "Ju lutemi kontaktoni zhvilluesit e shpërndarjes."
 
 #: yoyo_installer/windows/main_window.py:62
 msgid "page-changed"
